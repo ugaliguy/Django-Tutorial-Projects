@@ -1,6 +1,7 @@
 # Django-Tutorial-Projects
 
 An uninteresting collection of projects from various Django tutorials.
+These are not production quality and will not be deployed.
 
 
 ## First
